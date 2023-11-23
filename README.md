@@ -1,6 +1,8 @@
 [日本語ドキュメントはこちら](docs/README_JP.md)。
 
-![hero](assets/hero.png)
+[![hero](assets/hero.png)](https://www.figma.com/community/plugin/1309075086721748903/upper-mask)
+
+https://www.figma.com/community/plugin/1309075086721748903/upper-mask
 
 # About
 This is a plugin that performs clipping masks using shapes placed on top. It behaves similarly to the clipping mask function in Adobe Illustrator.
