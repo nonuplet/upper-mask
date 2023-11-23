@@ -1,0 +1,16 @@
+{
+  "name": "upper-mask",
+  "id": "1309075086721748903",
+  "api": "1.0.0",
+  "main": "main.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  }
+}
