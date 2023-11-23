@@ -1,12 +1,11 @@
-[Click here to English documentation]("../README.md).
+[Click here to English documentation](../README.md).
 
 ![hero](../assets/hero.png)
 
 # About
 
 上に置いたシェイプを使って、クリッピングマスクを行うプラグインです。  
-Adobe Illustatorのクリッピングマスク機能と似たような挙動をします。
-
+Adobe Illustratorのクリッピングマスク機能と似たような挙動をします。
 
 # How to use
 

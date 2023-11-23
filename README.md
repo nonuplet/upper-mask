@@ -1,6 +1,6 @@
-[日本語ドキュメントはこちら]("./docs/README_JP.md)。
+[日本語ドキュメントはこちら](docs/README_JP.md)。
 
-![hero](./assets/hero.png)
+![hero](assets/hero.png)
 
 # About
 This is a plugin that performs clipping masks using shapes placed on top. It behaves similarly to the clipping mask function in Adobe Illustrator.
